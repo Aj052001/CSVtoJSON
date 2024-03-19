@@ -50,7 +50,7 @@ This is a Node.js application built with Express.js that provides an API endpoin
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
-- [Jay Kushwaha](https://github.com/Aj052001)
+- [Ajay Singh](https://github.com/Aj052001)
 
 ---
 
